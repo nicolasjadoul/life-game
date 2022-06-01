@@ -1,0 +1,25 @@
+td{
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+
+
+
+
+}
+
+table{
+    border-collapse:collapse;
+
+
+}
+
+.white-cell{
+    background-color: #ffffff;
+}
+
+.black-cell{
+    background-color: black;
+
+
+}
